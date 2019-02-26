@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 .ipynb_checkpoints/
+Lib/
+pip-selfcheck.json
+Scripts/
+Include/
+tcl/
